@@ -1,0 +1,16 @@
+A:\VisualCode\Github Repos\HigherOrLower\bin\Debug\net5.0\HigherOrLower.exe
+A:\VisualCode\Github Repos\HigherOrLower\bin\Debug\net5.0\HigherOrLower.deps.json
+A:\VisualCode\Github Repos\HigherOrLower\bin\Debug\net5.0\HigherOrLower.runtimeconfig.json
+A:\VisualCode\Github Repos\HigherOrLower\bin\Debug\net5.0\HigherOrLower.runtimeconfig.dev.json
+A:\VisualCode\Github Repos\HigherOrLower\bin\Debug\net5.0\HigherOrLower.dll
+A:\VisualCode\Github Repos\HigherOrLower\bin\Debug\net5.0\ref\HigherOrLower.dll
+A:\VisualCode\Github Repos\HigherOrLower\bin\Debug\net5.0\HigherOrLower.pdb
+A:\VisualCode\Github Repos\HigherOrLower\obj\Debug\net5.0\HigherOrLower.csproj.AssemblyReference.cache
+A:\VisualCode\Github Repos\HigherOrLower\obj\Debug\net5.0\HigherOrLower.GeneratedMSBuildEditorConfig.editorconfig
+A:\VisualCode\Github Repos\HigherOrLower\obj\Debug\net5.0\HigherOrLower.AssemblyInfoInputs.cache
+A:\VisualCode\Github Repos\HigherOrLower\obj\Debug\net5.0\HigherOrLower.AssemblyInfo.cs
+A:\VisualCode\Github Repos\HigherOrLower\obj\Debug\net5.0\HigherOrLower.csproj.CoreCompileInputs.cache
+A:\VisualCode\Github Repos\HigherOrLower\obj\Debug\net5.0\HigherOrLower.dll
+A:\VisualCode\Github Repos\HigherOrLower\obj\Debug\net5.0\ref\HigherOrLower.dll
+A:\VisualCode\Github Repos\HigherOrLower\obj\Debug\net5.0\HigherOrLower.pdb
+A:\VisualCode\Github Repos\HigherOrLower\obj\Debug\net5.0\HigherOrLower.genruntimeconfig.cache
